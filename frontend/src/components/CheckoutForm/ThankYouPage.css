@@ -1,0 +1,40 @@
+/* ThankYouPage.css */
+
+.thank-you-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .thank-you-content {
+    text-align: center;
+  }
+  
+  .logo-container {
+    margin-top: 20px;
+  }
+  
+  .logo-container img {
+    width: 100px; /* Adjust the width as needed */
+    margin: 0 10px;
+  }
+  
+  .thank-you-actions {
+    margin-top: 20px;
+  }
+  
+  .continue-shopping-btn {
+    padding: 10px 20px;
+    background-color: #3498db; /* Adjust the color as needed */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .continue-shopping-btn:hover {
+    background-color: #2980b9; /* Adjust the hover color as needed */
+  }
+  

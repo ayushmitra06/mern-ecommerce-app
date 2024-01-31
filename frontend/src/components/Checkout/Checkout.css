@@ -1,0 +1,23 @@
+/* Checkout.css */
+
+.checkout {
+    margin: 100px 170px;
+  }
+  
+  .checkout-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e2e2e2;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .checkout-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  /* Add styles for your form fields, labels, buttons, etc. */
+  
