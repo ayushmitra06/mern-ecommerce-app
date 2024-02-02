@@ -24,7 +24,7 @@ Technologies Used:
 
 To Use this project:
 Before running update the MongoDB url with yours and change the jwt if required.
-1.cd frontend -> npm install -> npm start
+1. cd frontend -> npm install -> npm start
 2. cd backend -> npm install -> nodemon index.js
 3. cd admin -> npm install -> npm run dev
 
