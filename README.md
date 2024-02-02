@@ -22,4 +22,10 @@ Technologies Used:
 3. APIs ensuring a dynamic web page.
 4. Admin dashboard with Vite for full product control.
 
+To Use this project:
+Before running update the MongoDB url with yours and change the jwt if required.
+1.cd frontend -> npm install -> npm start
+2. cd backend -> npm install -> nodemon index.js
+3. cd admin -> npm install -> npm run dev
+
 Note: This project was created as a full-stack app for learning purposes and may be expanded in the future to include additional features. Feel free to use and modify the code as needed for your own projects.
